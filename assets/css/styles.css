@@ -1,0 +1,308 @@
+
+body{
+	background-image: url("../images/bg.jpg");
+}
+#logo{
+	text-align: center;
+}
+#logo:hover{
+	opacity: 0.8;
+
+
+}
+
+#height{
+	height: 250px;
+}
+
+#number {
+	color: #DC692E;
+	font-size: 50px;
+margin-right: 90px;
+margin-top: 8%;
+float: left;
+line-height:80px;
+
+}
+#button{
+	font-size: 15px;
+	margin-top: 70px;
+	padding: 5px;	
+border-top-left-radius: 15px;
+border-bottom-right-radius: 18px;
+
+
+margin-left: 1px;
+
+}
+
+.text{
+	font-size: 1em;
+
+	
+
+}
+
+	
+}
+.second{
+	font-size: 9px;
+
+}
+
+
+}
+#nav1{
+text-decoration: none;
+color:black;
+}
+#nav1:hover{
+	text-decoration: none;
+	color: #ff6600;
+list-style: none;
+background-color: lightgrey;
+background-size: 15px;
+border-radius: 50px;
+}
+#nav2{
+	color: black;
+	text-decoration: none;
+}
+#nav2:hover{
+	color: black;
+	text-decoration: none;
+}
+#b0{
+	margin-left: 5px;
+}
+#b0:hover{
+  color: #ff6600;
+  background-color: silver;
+border-radius: 40px;
+ 
+   
+	background-size: 20px;
+}
+#b11{
+
+border-top-left-radius: 15px;
+border-bottom-right-radius: 18px;
+font-size: 15px;
+background-color:lightgrey;
+margin-top: 8px;
+margin-left: 5px;
+height: 66px;
+width: 202px;
+opacity: 0.9;
+outline: none;
+}
+
+#b12{
+	
+}
+#b11:hover{
+	color: #ff6600;
+	border:none;
+}
+#b1{
+
+width: 90px;
+border-radius: 24px;
+background-image: url(bg.jpg);
+
+}
+#b1:hover{
+	color: #ff6600;
+
+
+}
+
+#form{
+	color: #ff6600; 
+	margin-bottom: 4px;
+}
+#btn{
+	padding: 2px;
+}
+#name{
+	margin-bottom: 3px;
+}
+#email{
+	margin-bottom: 1px;
+}
+#name:hover{
+	border-color:  #ff6600;
+	background-image: url( "../images/bg.jpg");
+}
+#email:hover{
+	border-color:  #ff6600;
+		background-image: url("../images/bg.jpg");
+
+}
+
+#newsitem{
+
+	opacity: 0.6;
+	margin-top: 5px;
+
+}
+#imagehover:hover{
+   -webkit-transform: rotate(-3deg); 
+    transform: rotate(-3deg);
+}
+#last{
+	background-color: #E0E0D8;
+
+	border:1px solid silver;
+	
+
+}
+#footercontent{
+	opacity: 0.5;
+}
+@font-face{
+    font-family:"myfont" ;
+    src:url('../fonts/MarketingScript.ttf') format('truetype');
+}
+@font-face{
+    font-family: "font1";
+    src:url('../fonts/HIGHERUP.TTF')format('truetype');
+}
+h4{
+	font-family:"font1";
+	font-size: 40px;
+	opacity: 0.7;
+}
+.two{
+		font-family:"font1";
+font-size: 18px;
+}
+.on{
+    font-family: "myfont";
+    font-size: 33px;
+    color: black;
+    padding-left:5px;
+    opacity: 0.7;
+}
+.font3{
+	font-family: "myfont";
+}
+#number{
+	font-family:"font1"
+}
+#food{
+		font-family: "myfont";
+		font-size: 20px;
+}
+.one{
+	font-family:"font1";
+}
+h3{
+	font-family: "myfont";
+	padding-left: 5px;
+	padding-top: 2px;
+	color:grey;
+}
+
+#b0 a{
+	color: black;
+	text-decoration: none;
+}
+#b0 a:hover{
+text-decoration: none;
+color: #ff6600;
+background-color: silver;
+padding: 2px;
+}
+.img-thumbnail{
+	border:5px solid white;
+}
+.img2{
+	background-image: url(bootle-mask.jpg);
+}
+.id{
+   background-color:silver;
+
+   border-top-left-radius:15px;
+    border-bottom-right-radius:15px;
+   background-size: 20px;
+   height: 15%;
+   padding: 2px;
+margin-left: 2px;
+    
+  }
+  .id1{
+   background-color:silver;
+
+   border-top-left-radius:15px;
+    border-bottom-right-radius:15px;
+   background-size: 20px;
+   height: 15%;
+   padding: 2px;
+    
+    
+  }
+  #border1{
+  	border:5px solid silver;
+  }
+  #h1{
+  	margin-right: 5px;
+  }
+#navigation{
+	background-color: white;
+	margin-left: 2px;
+}
+#navigation:hover{
+	color:#DC692E;
+
+}
+#subscribe{
+	background-color: lightgrey;
+	border-radius: 50px;
+	
+	padding-top: 1px;
+	padding-bottom:  1px;
+
+
+}
+#card1{
+	margin-top: 2px;
+}
+#subscribe:hover{
+color:#ff6600; 
+}
+.card-subhead{
+	
+	padding: 2px;
+	font-size: 14px;
+}	
+.text:hover{
+	width: 105%;
+			background-image: url("../images/bg.jpg");
+
+}
+
+
+
+.cir-bg{
+	text-align: center;
+}
+.para{
+	font-size: 13px;
+	margin: 1px;
+	margin-top: 8px;
+}
+.secondcard{
+	font-size: 10px;
+}
+.gap{
+	margin: 1px;
+}
+
+.mr-2{
+	margin-right: 4.4rem !important;
+}
+h1{
+	font-family: "font1";
+}
+
